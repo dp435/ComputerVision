@@ -1,3 +1,3 @@
-# Introduction to Computer Vision.
+# Computer Vision Projects.
 
-Past projects done for the "Introduction to Computer Vision" course.
+Past projects completed for Introduction to Computer Vision course.
