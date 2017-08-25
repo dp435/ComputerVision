@@ -1,0 +1,7 @@
+{
+  "test_student.py::test_class_visualization_gradient": true, 
+  "test_student.py::test_compute_dscore_dimage": true, 
+  "test_student.py::test_feature_inversion_gradient": true, 
+  "test_student.py::test_fooling_image_gradient": true, 
+  "test_student.py::test_normalized_sgd_with_momentum_update": true
+}

@@ -1,0 +1,32 @@
+{
+  "first_image_points": [
+    [
+      363,
+      225
+    ],
+    [
+      379,
+      386
+    ],
+    [
+      473,
+      296
+    ]
+  ],
+  "second_image_points": [
+    [
+      371,
+      206
+    ],
+    [
+      372,
+      357
+    ],
+    [
+      470,
+      276
+    ]
+  ],
+  "first_image": "resources/dog.jpg",
+  "second_image": "resources/cat.jpg"
+}
